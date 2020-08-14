@@ -2,6 +2,8 @@
 
 This is a customised version of Mkdocs .. mostly changes in theme. Clone this repo and get started with your documentation. 
 
+Refer to [https://switchless.io/mkdocs/](https://switchless.io/mkdocs/) for more details on why we use mkdocs
+
 ## Commands
 
 * `mkdocs new [dir-name]` - Create a new project.

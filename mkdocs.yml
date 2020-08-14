@@ -1,3 +1,21 @@
-site_name: My Docs by GitLab Pages
 site_url: https://pages.gitlab.io/mkdocs
 site_dir: public
+site_name: Switchless Docs
+theme:
+    name: null
+    custom_dir: 'docs/custom_theme2/'
+    sidebars: 
+        - about
+        - search
+extra:
+    logo: files/switchless_docs_logo.png
+    sidebars:
+        - about
+        - navigation
+    homepage_sidebars:
+        - about
+        - navigation
+
+markdown_extensions:
+  - toc:
+      permalink: true
